@@ -1,5 +1,5 @@
 {
-    "autosu": false,
+    "autosu": true,
     "colorscheme": "good",
     "filemanager-openonstart": true,
     "saveundo": true,
