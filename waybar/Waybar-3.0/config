@@ -13,6 +13,7 @@
     "cpu",
     "memory",
     "temperature",
+	"custom/uptime",
     "custom/filler",
     "custom/filler",
     "disk",
