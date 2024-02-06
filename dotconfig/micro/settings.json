@@ -1,0 +1,8 @@
+{
+    "autosu": true,
+    "colorscheme": "good",
+    "filemanager-openonstart": true,
+    "mkparents": true,
+    "saveundo": true,
+    "scrollbar": true
+}
